@@ -10,6 +10,7 @@ from datetime import datetime
 import pandas as pd
 import random
 import smtplib
+import os
 
 MY_EMAIL = os.environ.get("luka.milinkovic789@gmail.com")
 PASSWORD = os.environ.get("iwzx ubtq ugky ozdv")
